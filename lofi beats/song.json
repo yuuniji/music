@@ -1,52 +1,252 @@
 [
-  { "title": "This Is Easy", "filename": "1-this is easy by red tractor.mp3", "artist": "Red Tractor" },
-  { "title": "Asleep", "filename": "2-asleep by les marais.mp3", "artist": "Les Marais" },
-  { "title": "Winterblossom", "filename": "3-winterblossom by lilibu.mp3", "artist": "Lilibu" },
-  { "title": "Break", "filename": "4-break by teylors.mp3", "artist": "Teylors" },
-  { "title": "Crestfallen", "filename": "5-Crestfallen by Kyola, cxlt., and luffmoor.mp3", "artist": "Kyola, cxlt., luffmoor" },
-  { "title": "Morse", "filename": "6-Morse by Cmd q.mp3", "artist": "Cmd q" },
-  { "title": "Inflated", "filename": "7-Inflated by HM Surf.mp3", "artist": "HM Surf" },
-  { "title": "Bonsai Tree", "filename": "8-bonsai tree by yellofish.mp3", "artist": "Yellofish" },
-  { "title": "Rainfall", "filename": "9-rainfall by Cozy Nordic.mp3", "artist": "Cozy Nordic" },
-  { "title": "Sunny Bossa", "filename": "10-Sunny Bossa by Jonny Wolf, and Erwin Do.mp3", "artist": "Jonny Wolf, Erwin Do" },
-  { "title": "Looking Up", "filename": "11-Looking Up by Mr. Käfer, and Leavv.mp3", "artist": "Mr. Käfer, Leavv" },
-  { "title": "Easy Days", "filename": "12-Easy Days by Kainbeats, and YODAKA.mp3", "artist": "Kainbeats, YODAKA" },
-  { "title": "Just Me Watering My Plants, Overthinking Stuff", "filename": "13-just me watering my plants, overthinking stuff by nightnotes.mp3", "artist": "Nightnotes" },
-  { "title": "Coastal Road", "filename": "14-coastal road by mellow fox.mp3", "artist": "Mellow Fox" },
-  { "title": "Cravings", "filename": "15-Cravings by aunt.mp3", "artist": "Aunt" },
-  { "title": "Yorkshire", "filename": "16-Yorkshire by Cmd q.mp3", "artist": "Cmd q" },
-  { "title": "Portugale", "filename": "17-Portugale by green room.mp3", "artist": "Green Room" },
-  { "title": "Blues", "filename": "18-blues by Forgotten Murals.mp3", "artist": "Forgotten Murals" },
-  { "title": "New Beginnings", "filename": "19-New Beginnings by Mr. Käfer, and Phlocalyst.mp3", "artist": "Mr. Käfer, Phlocalyst" },
-  { "title": "Going Solo", "filename": "20-going solo by May-Flowa.mp3", "artist": "May-Flowa" },
-  { "title": "No Tomorrow", "filename": "21-No Tomorrow by Zmeyev.mp3", "artist": "Zmeyev" },
-  { "title": "I'll Be There", "filename": "22-I'll Be There by cxlt..mp3", "artist": "cxlt." },
-  { "title": "Peaceful Retreat", "filename": "23-peaceful retreat by mellow fox.mp3", "artist": "Mellow Fox" },
-  { "title": "Maybe", "filename": "24-maybe by Beats on 21st.mp3", "artist": "Beats on 21st" },
-  { "title": "Atlas", "filename": "25-Atlas by Mozzie.mp3", "artist": "Mozzie" },
-  { "title": "Nightvision", "filename": "26-nightvision by sellar.mp3", "artist": "Sellar" },
-  { "title": "Higher", "filename": "27-Higher by Katashi Kaitō.mp3", "artist": "Katashi Kaitō" },
-  { "title": "Clouds in the Sky", "filename": "28-Clouds in the Sky by DreamWavez.mp3", "artist": "DreamWavez" },
-  { "title": "AM FEAST", "filename": "29-AM FEAST by H I K E.mp3", "artist": "H I K E" },
-  { "title": "State", "filename": "30-State by Dosi.mp3", "artist": "Dosi" },
-  { "title": "Pool Days", "filename": "31-Pool Days by Smoke Trees, and Lito Akari.mp3", "artist": "Smoke Trees, Lito Akari" },
-  { "title": "Pain au Chocolat", "filename": "32-pain au chocolat by giannis wang.mp3", "artist": "Giannis Wang" },
-  { "title": "Guitar Mood", "filename": "33-Guitar Mood by Skipclass.mp3", "artist": "Skipclass" },
-  { "title": "Jetty", "filename": "34-jetty by Hoffy Beats, and Tonion.mp3", "artist": "Hoffy Beats, Tonion" },
-  { "title": "The Extra Mile", "filename": "35-The Extra Mile by Robot Age.mp3", "artist": "Robot Age" },
-  { "title": "5.50 Am", "filename": "36-5.50 Am by Pearldiver.mp3", "artist": "Pearldiver" },
-  { "title": "Until I Met You", "filename": "37-Until I Met You by GoldFuzion.mp3", "artist": "GoldFuzion" },
-  { "title": "Bustin' Out", "filename": "38-bustin' out by Rustique Beats.mp3", "artist": "Rustique Beats" },
-  { "title": "Saudade", "filename": "39-Saudade by High John.mp3", "artist": "High John" },
-  { "title": "Social Skills", "filename": "40-Social Skills by Phlocalyst.mp3", "artist": "Phlocalyst" },
-  { "title": "Gentle Giraffe", "filename": "41-Gentle Giraffe by Elffire.mp3", "artist": "Elffire" },
-  { "title": "Summer Terrace", "filename": "42-Summer Terrace by Casiio, and Kainbeats.mp3", "artist": "Casiio, Kainbeats" },
-  { "title": "Trunk Bay", "filename": "43-Trunk Bay by Mono Moon.mp3", "artist": "Mono Moon" },
-  { "title": "Under the Pressure", "filename": "44-Under the Pressure by Cotton Candy Boulevard.mp3", "artist": "Cotton Candy Boulevard" },
-  { "title": "Grass", "filename": "45-Grass by Tom Doolie.mp3", "artist": "Tom Doolie" },
-  { "title": "Winter Overture", "filename": "46-winter overture by Wun Two.mp3", "artist": "Wun Two" },
-  { "title": "Frozen", "filename": "47-Frozen by Ptr..mp3", "artist": "Ptr." },
-  { "title": "Amelie", "filename": "48-Amelie by Mozzie.mp3", "artist": "Mozzie" },
-  { "title": "Kristall", "filename": "49-Kristall by milligon.mp3", "artist": "Milligon" },
-  { "title": "Crush on You", "filename": "50-crush on you by ilaywho.mp3", "artist": "Ilaywho" }
+  {
+    "title": "This Is Easy",
+    "artist": "Red Tractor",
+    "file": "1-this_is_easy_by_red_tractor.mp3"
+  },
+  {
+    "title": "Asleep",
+    "artist": "Les Marais",
+    "file": "2-asleep_by_les_marais.mp3"
+  },
+  {
+    "title": "Winterblossom",
+    "artist": "Lilibu",
+    "file": "3-winterblossom_by_lilibu.mp3"
+  },
+  {
+    "title": "Break",
+    "artist": "Teylors",
+    "file": "4-break_by_teylors.mp3"
+  },
+  {
+    "title": "Crestfallen",
+    "artist": "Kyola, cxlt., Luffmoor",
+    "file": "5-Crestfallen_by_Kyola,_cxlt.,_and_luffmoor.mp3"
+  },
+  {
+    "title": "Morse",
+    "artist": "Cmd q",
+    "file": "6-Morse_by_Cmd_q.mp3"
+  },
+  {
+    "title": "Inflated",
+    "artist": "HM Surf",
+    "file": "7-Inflated_by_HM_Surf.mp3"
+  },
+  {
+    "title": "Bonsai Tree",
+    "artist": "Yellofish",
+    "file": "8-bonsai_tree_by_yellofish.mp3"
+  },
+  {
+    "title": "Rainfall",
+    "artist": "Cozy Nordic",
+    "file": "9-rainfall_by_Cozy_Nordic.mp3"
+  },
+  {
+    "title": "Sunny Bossa",
+    "artist": "Jonny Wolf, Erwin Do",
+    "file": "10-Sunny_Bossa_by_Jonny_Wolf,_and_Erwin_Do.mp3"
+  },
+  {
+    "title": "Looking Up",
+    "artist": "Mr. Käfer, Leavv",
+    "file": "11-Looking_Up_by_Mr._Käfer,_and_Leavv.mp3"
+  },
+  {
+    "title": "Easy Days",
+    "artist": "Kainbeats, YODAKA",
+    "file": "12-Easy_Days_by_Kainbeats,_and_YODAKA.mp3"
+  },
+  {
+    "title": "Just Me Watering My Plants, Overthinking Stuff",
+    "artist": "Nightnotes",
+    "file": "13-just_me_watering_my_plants,_overthinking_stuff_by_nightnotes.mp3"
+  },
+  {
+    "title": "Coastal Road",
+    "artist": "Mellow Fox",
+    "file": "14-coastal_road_by_mellow_fox.mp3"
+  },
+  {
+    "title": "Cravings",
+    "artist": "Aunt",
+    "file": "15-Cravings_by_aunt.mp3"
+  },
+  {
+    "title": "Yorkshire",
+    "artist": "Cmd q",
+    "file": "16-Yorkshire_by_Cmd_q.mp3"
+  },
+  {
+    "title": "Portugale",
+    "artist": "Green Room",
+    "file": "17-Portugale_by_green_room.mp3"
+  },
+  {
+    "title": "Blues",
+    "artist": "Forgotten Murals",
+    "file": "18-blues_by_Forgotten_Murals.mp3"
+  },
+  {
+    "title": "New Beginnings",
+    "artist": "Mr. Käfer, Phlocalyst",
+    "file": "19-New_Beginnings_by_Mr._Käfer,_and_Phlocalyst.mp3"
+  },
+  {
+    "title": "Going Solo",
+    "artist": "May-Flowa",
+    "file": "20-going_solo_by_May-Flowa.mp3"
+  },
+  {
+    "title": "No Tomorrow",
+    "artist": "Zmeyev",
+    "file": "21-No_Tomorrow_by_Zmeyev.mp3"
+  },
+  {
+    "title": "I'll Be There",
+    "artist": "cxlt.",
+    "file": "22-I'll_Be_There_by_cxlt..mp3"
+  },
+  {
+    "title": "Peaceful Retreat",
+    "artist": "Mellow Fox",
+    "file": "23-peaceful_retreat_by_mellow_fox.mp3"
+  },
+  {
+    "title": "Maybe",
+    "artist": "Beats on 21st",
+    "file": "24-maybe_by_Beats_on_21st.mp3"
+  },
+  {
+    "title": "Atlas",
+    "artist": "Mozzie",
+    "file": "25-Atlas_by_Mozzie.mp3"
+  },
+  {
+    "title": "Nightvision",
+    "artist": "Sellar",
+    "file": "26-nightvision_by_sellar.mp3"
+  },
+  {
+    "title": "Higher",
+    "artist": "Katashi Kaitō",
+    "file": "27-Higher_by_Katashi_Kaitō.mp3"
+  },
+  {
+    "title": "Clouds in the Sky",
+    "artist": "DreamWavez",
+    "file": "28-Clouds_in_the_Sky_by_DreamWavez.mp3"
+  },
+  {
+    "title": "AM FEAST",
+    "artist": "H I K E",
+    "file": "29-AM_FEAST_by_H_I_K_E.mp3"
+  },
+  {
+    "title": "State",
+    "artist": "Dosi",
+    "file": "30-State_by_Dosi.mp3"
+  },
+  {
+    "title": "Pool Days",
+    "artist": "Smoke Trees, Lito Akari",
+    "file": "31-Pool_Days_by_Smoke_Trees,_and_Lito_Akari.mp3"
+  },
+  {
+    "title": "Pain au Chocolat",
+    "artist": "Giannis Wang",
+    "file": "32-pain_au_chocolat_by_giannis_wang.mp3"
+  },
+  {
+    "title": "Guitar Mood",
+    "artist": "Skipclass",
+    "file": "33-Guitar_Mood_by_Skipclass.mp3"
+  },
+  {
+    "title": "Jetty",
+    "artist": "Hoffy Beats, Tonion",
+    "file": "34-jetty_by_Hoffy_Beats,_and_Tonion.mp3"
+  },
+  {
+    "title": "The Extra Mile",
+    "artist": "Robot Age",
+    "file": "35-The_Extra_Mile_by_Robot_Age.mp3"
+  },
+  {
+    "title": "5.50 Am",
+    "artist": "Pearldiver",
+    "file": "36-5.50_Am_by_Pearldiver.mp3"
+  },
+  {
+    "title": "Until I Met You",
+    "artist": "GoldFuzion",
+    "file": "37-Until_I_Met_You_by_GoldFuzion.mp3"
+  },
+  {
+    "title": "Bustin' Out",
+    "artist": "Rustique Beats",
+    "file": "38-bustin'_out_by_Rustique_Beats.mp3"
+  },
+  {
+    "title": "Saudade",
+    "artist": "High John",
+    "file": "39-Saudade_by_High_John.mp3"
+  },
+  {
+    "title": "Social Skills",
+    "artist": "Phlocalyst",
+    "file": "40-Social_Skills_by_Phlocalyst.mp3"
+  },
+  {
+    "title": "Gentle Giraffe",
+    "artist": "Elffire",
+    "file": "41-Gentle_Giraffe_by_Elffire.mp3"
+  },
+  {
+    "title": "Summer Terrace",
+    "artist": "Casiio, Kainbeats",
+    "file": "42-Summer_Terrace_by_Casiio,_and_Kainbeats.mp3"
+  },
+  {
+    "title": "Trunk Bay",
+    "artist": "Mono Moon",
+    "file": "43-Trunk_Bay_by_Mono_Moon.mp3"
+  },
+  {
+    "title": "Under the Pressure",
+    "artist": "Cotton Candy Boulevard",
+    "file": "44-Under_the_Pressure_by_Cotton_Candy_Boulevard.mp3"
+  },
+  {
+    "title": "Grass",
+    "artist": "Tom Doolie",
+    "file": "45-Grass_by_Tom_Doolie.mp3"
+  },
+  {
+    "title": "Winter Overture",
+    "artist": "Wun Two",
+    "file": "46-winter_overture_by_Wun_Two.mp3"
+  },
+  {
+    "title": "Frozen",
+    "artist": "Ptr.",
+    "file": "47-Frozen_by_Ptr..mp3"
+  },
+  {
+    "title": "Amelie",
+    "artist": "Mozzie",
+    "file": "48-Amelie_by_Mozzie.mp3"
+  },
+  {
+    "title": "Kristall",
+    "artist": "Milligon",
+    "file": "49-Kristall_by_milligon.mp3"
+  },
+  {
+    "title": "Crush on You",
+    "artist": "Ilaywho",
+    "file": "50-crush_on_you_by_ilaywho.mp3"
+  }
 ]
