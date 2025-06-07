@@ -13,23 +13,28 @@
 
 ### 在线引用链接
 
-#### lofi_beats
+#### lofi_beats（已上线） 🎵✅
+> Available
 - **音乐数据目录**：[https://yuuniji.github.io/music/lofi_beats/](https://yuuniji.github.io/music/lofi_beats/)
 - **JSON 歌曲列表**：[https://yuuniji.github.io/music/lofi_beats/songs.json](https://yuuniji.github.io/music/lofi_beats/songs.json)
 
-#### top_50/global
+#### top_50/global（待续） 🌏⏳
+> Coming soon
 - **音乐数据目录**：[https://yuuniji.github.io/music/top_50/global/](https://yuuniji.github.io/music/top_50/global/)
 - **JSON 歌曲列表**：[https://yuuniji.github.io/music/top_50/global/songs.json](https://yuuniji.github.io/music/top_50/global/songs.json)
 
-#### top_50/japan
+#### top_50/japan（已上线） 🇯🇵✅
+> Available
 - **音乐数据目录**：[https://yuuniji.github.io/music/top_50/japan/](https://yuuniji.github.io/music/top_50/japan/)
 - **JSON 歌曲列表**：[https://yuuniji.github.io/music/top_50/japan/songs.json](https://yuuniji.github.io/music/top_50/japan/songs.json)
 
-#### top_50/usa
+#### top_50/usa（待续） 🇺🇸⏳
+> Coming soon
 - **音乐数据目录**：[https://yuuniji.github.io/music/top_50/usa/](https://yuuniji.github.io/music/top_50/usa/)
 - **JSON 歌曲列表**：[https://yuuniji.github.io/music/top_50/usa/songs.json](https://yuuniji.github.io/music/top_50/usa/songs.json)
 
-#### top_50/south_korea
+#### top_50/south_korea（待续） 🇰🇷⏳
+> Coming soon
 - **音乐数据目录**：[https://yuuniji.github.io/music/top_50/south_korea/](https://yuuniji.github.io/music/top_50/south_korea/)
 - **JSON 歌曲列表**：[https://yuuniji.github.io/music/top_50/south_korea/songs.json](https://yuuniji.github.io/music/top_50/south_korea/songs.json)
 
